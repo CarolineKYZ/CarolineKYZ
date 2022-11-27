@@ -13,7 +13,8 @@
 <hr>
 
 <p1>
-  I am 21 years old, and I am majoring in Computer Science with a minor in Honors Interdisciplinary Studies from Western Washington University. I am deeply interested in virtual reality and plan to undergo virtual reality research with my department. In my free time I enjoy creating 3D game objects in blender and exploring in virtual reality. I am always on the lookout for new projects to work on and new people to collaborate with.
+  
+  I am 21 years old, and I am majoring in Computer Science with a minor in Honors Interdisciplinary Studies from Western Washington University. I am deeply interested in virtual reality and plan to undergo virtual reality research with my department. In my free time I enjoy creating 3D game objects in blender and exploring in VR. I am always on the lookout for new projects to work on and new people to collaborate with.
 </p1>
 
 
