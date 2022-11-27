@@ -5,13 +5,17 @@
 
 <hr>
 <pre>
-- 👋 Hi, I’m @CarolineKYZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Caroline 
+- 👀 I use she/they pronouns
+- 🌱 I’m currently learning how to use Unity 
+- 💞️ I’m looking to collaborate on VR Reasearch
 </pre>
 <hr>
+
+<p1>
+  this is some font
+</p1>
+
 
 <!---
 CarolineKYZ/CarolineKYZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
