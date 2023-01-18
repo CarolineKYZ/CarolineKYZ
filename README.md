@@ -7,14 +7,12 @@
 <pre>
 - 👋 Hi, I’m Caroline 
 - 👀 I use she/they pronouns
-- 🌱 I’m currently learning how to use Unity 
-- 💞️ I’m looking to collaborate on VR Reasearch
 </pre>
 <hr>
 
 <p1>
   
-  I am majoring in Computer Science with a minor in Honors Interdisciplinary Studies from Western Washington University. I am deeply interested in virtual reality and plan to undergo virtual reality undergrad research within my department. In my free time I enjoy creating 3D game objects in blender and exploring in VR. I am always on the lookout for new projects to work on and new people to collaborate with.
+  I am majoring in Computer Science with a minor in Honors Interdisciplinary Studies from Western Washington University.
 </p1>
 
 
