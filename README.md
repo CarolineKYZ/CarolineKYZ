@@ -6,14 +6,10 @@
 <hr>
 <pre>
 - 👋 Hi, I’m Caroline 
+- ✨ Western Washington Undergrad 
 - 👀 I use she/they pronouns
 </pre>
 <hr>
-
-<p1>
-  
-  I am majoring in Computer Science with a minor in Honors Interdisciplinary Studies from Western Washington University.
-</p1>
 
 
 <!---
