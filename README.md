@@ -6,8 +6,12 @@
 <hr>
 <pre>
 - 👋 Hi, I’m Caroline 
-- ✨ Western Washington Undergrad 
-- 👀 I use she/they pronouns
+- ✨ Western Washington Undergradate
+- 👀 Graduating in Fall 2024
+- 🌱 I love taking care of plants,
+- 🏋️‍♀️ staying active lifting weights, 
+- 🕹️ playing video games, 
+- 👩‍💻 and coding accessible projects! 
 </pre>
 <hr>
 
