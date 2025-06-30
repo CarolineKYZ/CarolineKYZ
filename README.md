@@ -6,8 +6,8 @@
 <hr>
 <pre>
 - 👋 Hi, I’m Caroline 
-- ✨ Western Washington Undergradate
-- 👀 Graduating in Fall 2024
+- ✨ Western Washington U Alumni
+- 👀 Graduted with a BS in CS
 - 🌱 I love taking care of plants,
 - 🏋️‍♀️ staying active lifting weights, 
 - 🕹️ playing video games, 
